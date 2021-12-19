@@ -1,5 +1,5 @@
 # CheckLink
-A Reddit bot that when mentioned checks parent comment's link for malicious content.
+A simple Reddit bot that when mentioned checks parent comment's link for malicious content.
 
 # Imports
 ```
